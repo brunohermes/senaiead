@@ -5,7 +5,9 @@
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 18pt;
 }
-.logo-senai{
+#logo{
+	
+	max-width: 25%;
 	margin-top: 5%;
 	margin-bottom: 5%;
 }
