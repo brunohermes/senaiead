@@ -16,4 +16,7 @@ Como surgiu?
 
 A ideia de criar um aplicativo para o acesso SENAI Ead, surgiu quando percebi certa dificuldade dos meus colegas de classe em acessar o sistema EAD. Por este motivo resolvi criar um simples aplicativo que facilita o acesso ao sistema de ensino a distância do SENAI.
 
+Quem sou?
+
+Meu nome é Bruno Hermes, tenho 19 anos e sou aluno do curso de Manutenção Automotiva do Senai Paraná.
 
