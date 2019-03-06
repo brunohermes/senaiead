@@ -4,6 +4,7 @@ Senai EAD (Aplicativo de acessibilidade).
 Aplicativo para acesso ao sistema ead do Senai (todo o país).
 Neste respositório serão encontrados os arquivos principais para funcionamento do app.
 
+O Download do aplicativo para android ainda não está disponível na google play store, porém você pode baixar o Apk e instala-lo em seu celular para testar através do link: https://github.com/brunohermes/senaiead/raw/master/SenaiEADBr.apk
 
 Perguntas e suas respostas:
 
