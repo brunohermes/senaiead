@@ -1,6 +1,9 @@
 # senaiead
 Senai EAD (Aplicativo de acessibilidade).
 
+Aplicativo para acesso ao sistema ead do Senai (todo o país).
+Neste respositório serão encontrados os arquivos principais para funcionamento do app.
+
 
 Perguntas e suas respostas:
 
