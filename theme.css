@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+#titulo{
+	color: black;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18pt;
+}
+.logo-senai{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+#estados {
+    height: auto;
+    max-height: 300px;
+    overflow-x: hidden;
+}
