@@ -11,11 +11,16 @@ body{
 	font-size: 18pt;
 }
 #main{
+	margin-top: 1%;
 	display: block;
 	padding: 2%;
-	margin-left: 10%;
-	margin-right: 10%;
-	background: #ffffff;
+	margin-left: 20%;
+	margin-right: 20%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgba(255, 255, 255, 0.46);
+	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.46);
 }
 #logo{
 	display: block;
