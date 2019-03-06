@@ -1,15 +1,11 @@
 # senaiead.github.io
 Senai EAD (Aplicativo de acessibilidade).
 
-  ____                                  
- 6MMMMb\                            68b 
-6M'    `                            Y89 
-MM         ____  ___  __      ___   ___ 
-YM.       6MMMMb `MM 6MMb   6MMMMb  `MM 
- YMMMMb  6M'  `Mb MMM9 `Mb 8M'  `Mb  MM 
-     `Mb MM    MM MM'   MM     ,oMM  MM 
-      MM MMMMMMMM MM    MM ,6MM9'MM  MM 
-      MM MM       MM    MM MM'   MM  MM 
-L    ,M9 YM    d9 MM    MM MM.  ,MM  MM 
-MYMMMM9   YMMMM9 _MM_  _MM_`YMMM9'Yb_MM_
 
+Perguntas e respostas:
+
+O que é?
+O "Senai EAD", (Aplicativo de acessibilidade), facilita o acesso à qualquer sistema ead do SESI/SENAI do país, ideal para usuários leigos acessarem o ead com facilidade.
+
+Como funciona?
+O usuário abre o aplicativo, indica o estado da instituição de ensino e é automaticamente direcionado para o sistema adequado.
